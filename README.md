@@ -1,6 +1,3 @@
-
-<a href="#" target="_blank"> <img loading="lazy" src="https://raw.githubusercontent.com/Jaycharole/Evenex---a-event-website/main/img/evenx-main-logo.png" alt="Wordpress" width="200" height="80" align="center"/> </a>
-
 <h1 align="center">EVENEX - an event management website </h1>
 
 
