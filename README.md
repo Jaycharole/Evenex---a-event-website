@@ -1,5 +1,5 @@
 
-<center><a href="#" target="_blank"> <img loading="lazy" src="https://raw.githubusercontent.com/Jaycharole/Evenex---a-event-website/main/img/evenx-main-logo.png" alt="Wordpress" width="200" height="80"/> </a></center>
+<a href="#" target="_blank"> <img loading="lazy" src="https://raw.githubusercontent.com/Jaycharole/Evenex---a-event-website/main/img/evenx-main-logo.png" alt="Wordpress" width="200" height="80" align="center"/> </a>
 
 <h1 align="center">EVENEX - an event management website </h1>
 
@@ -12,9 +12,9 @@
 <a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img loading="lazy" src="https://www.vectorlogo.zone/logos/font-awesome/font-awesome-icon.svg" alt="Font awesome" width="40" height="40"/> </a>
-<a href="#" target="_blank"> <img loading="lazy" src="https://www.mamp.info/images/icons/mamp-gmbh.png" alt="Mamp-server" width="40" height="40"/> </a>
+<a href="#" target="_blank"> <img loading="lazy" src="https://www.mamp.info/images/apple-touch-icons/152x152.png" alt="Mamp-server" width="40" height="40"/> </a>
 <a href="#" target="_blank"> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/1200px-Brackets_Icon.svg.png" alt="brackets" width="40" height="40"/> </a>
-<a href="#" target="_blank"> <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Dialogflow_logo.svg/1280px-Dialogflow_logo.svg.png" alt="dailog-flow" width="40" height="40"/> </a>
+
 
 
 <hr>
