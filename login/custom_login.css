@@ -1,0 +1,145 @@
+***** custom_login.css *****
+/* Change background image and font family */
+body {
+  /*background-image: url('background.jpg') !important;*/
+  font-family: Arial,Verdana,sans-serif;
+}
+ 
+/* Change Width and Height of Logo Image + Add Custom Image File */
+.login h1 a {
+  background-image: url(logo.png);
+  width: 213px;
+  height: 97px;
+  background-size: 213px 97px;
+}
+ 
+/* Add a few changes to the color and style of form itself */
+.login label {
+  color: #454545;
+  display: block;
+  margin-bottom: 1em;
+  font-weight: bold;
+}
+ 
+.login form .input {
+  font-weight: normal;
+}
+ 
+.login #backtoblog a, .login #nav a {
+  color: #4da28f;
+}
+ 
+.wp-core-ui .button-primary {
+  background: #4da28f;
+}
+
+.login form {
+    margin-top: 20px;
+    margin-left: 0;
+    padding: 26px 24px 46px;
+    font-weight: 400;
+    overflow: hidden;
+    background: #fff;
+    box-shadow: rgb(0 0 0 / 24%) 0px 3px 8px;
+}
+
+.wp-core-ui .button-primary {
+    background: #a24d51;
+}
+
+
+element.style {
+}
+.wp-core-ui .button-group.button-large .button, .wp-core-ui .button.button-large {
+    min-height: 32px;
+    line-height: 2.30769231;
+    padding: 0 12px;
+}
+.wp-core-ui p .button {
+    vertical-align: baseline;
+}
+.wp-core-ui .button-primary {
+    background: #FE524C;
+}
+.login .button-primary {
+    float: right;
+}
+.wp-core-ui .button-primary {
+    background: #FE524C !important;
+    border-color: #FE524C;
+    color: #fff !important;
+    text-decoration: none;
+    text-shadow: none;
+    font-size: 14px;
+    border-radius: 0px;
+    font-weight: 600;
+   
+    font-family: 'Raleway', sans-serif !important;
+    cursor: pointer;
+}
+
+.wp-core-ui .button, .wp-core-ui .button-secondary {
+    color: #000;
+    border-color: #000;
+    background: #f3f5f6;
+    vertical-align: top;
+}
+
+input[type=checkbox], input[type=radio] {
+    border: 1px solid #7e8993;
+    border-radius: 0px;
+    background: #fff;
+    color: #555;
+    clear: none;
+    cursor: pointer;
+    display: inline-block;
+    line-height: 0;
+    height: 1rem;
+    margin: -.25rem .25rem 0 0;
+    outline: 0;
+    padding: 0!important;
+    text-align: center;
+    vertical-align: middle;
+    width: 1rem;
+    min-width: 1rem;
+    -webkit-appearance: none;
+    /* box-shadow: inset 0 1px 2px rgb(0 0 0 / 10%); */
+    transition: .05s border-color ease-in-out;
+}
+
+input[type=color], input[type=date], input[type=datetime-local], input[type=datetime], input[type=email], input[type=month], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], input[type=week], select, textarea {
+    box-shadow: 0 0 0 transparent;
+    border-radius: 0px;
+    border: 1px solid #7e8993;
+    background-color: #fff;
+    color: #32373c;
+}
+
+
+input[type=color]:focus, input[type=date]:focus, input[type=datetime-local]:focus, input[type=datetime]:focus, input[type=email]:focus, input[type=month]:focus, input[type=number]:focus, input[type=password]:focus, input[type=search]:focus, input[type=tel]:focus, input[type=text]:focus, input[type=time]:focus, input[type=url]:focus, input[type=week]:focus, input[type=checkbox]:focus, input[type=radio]:focus, select:focus, textarea:focus 
+{ 
+    border-color: #FE524C !important;
+  box-shadow: none!important;
+  outline: 0 none;
+}
+
+.login label {
+    color: #454545;
+    display: block;
+    margin-bottom: 1em;
+    font-weight: 500!important;
+    font-family: 'Raleway', sans-serif !important;
+    font-size: 14px;
+}
+
+
+
+.login #backtoblog a, .login #nav a {
+    color: #FE524C !important;
+}
+.login #backtoblog a, .login #nav a {
+    text-decoration: none;
+    color: #555d66;
+    font-family: 'Raleway', sans-serif !important;
+    font-size: 15px;
+}
